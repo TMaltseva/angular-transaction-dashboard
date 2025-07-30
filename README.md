@@ -1,1 +1,0 @@
-# angular-transaction-dashboard
